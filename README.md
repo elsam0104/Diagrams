@@ -1,1 +1,1 @@
-# It's my project, StationerySmash's UML.
+# It's my UML files.
